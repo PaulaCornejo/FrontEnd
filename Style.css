@@ -1,0 +1,29 @@
+*{
+    margin: 5px;
+    padding:10px;
+}
+body {
+    background-color: linen;
+}
+h1 {
+    color: maroon;
+    margin-left: 40px;
+}
+h2 {
+    color:brown;
+}
+h3 {
+    color:blueviolet
+}
+h4{
+    color:black;
+}
+.holder {   
+    width: auto;
+    display: inline-block;    
+  }
+  
+  .holder img {
+    width: 20%; /* Will shrink image to 30% of its original width */
+    height: auto;    
+  }​
